@@ -7,5 +7,5 @@ Sr.Test Technician Hana Microelectronics Public Co., Ltd. (Lamphun Thailand).
 
 ### Skills
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-
+<img src="https://cdn.worldvectorlogo.com/logos/python-original.scg" alt="arduino" width="40" height="40"/>
 
